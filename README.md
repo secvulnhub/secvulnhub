@@ -110,7 +110,7 @@ SecVulnHub/
 
 **Current Challenge**: 100 Days of Cybersecurity Tool Development  
 **Start Date**: June 10, 2025 - 12:45 EAT  
-**Commitment**: 20 new utilities every 5 days  
+**Commitment**: 1 new utility every 5 days  
 **Team Goal**: Build the most comprehensive cybersecurity toolkit for ethical hackers
 
 Our core team (SecVulnHub group) follows this intensive development rhythm, focusing on tools that directly support bug bounty hunting and ethical hacking workflows. The repository welcomes quality contributions from the broader cybersecurity community at any time.
