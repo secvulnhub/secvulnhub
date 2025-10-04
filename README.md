@@ -2,301 +2,517 @@
 
 <div align="center">
 
-![SecVulnHub Banner](https://via.placeholder.com/1200x300/0f172a/64748b?text=SecVulnHub%20%7C%20Cybersecurity%20Arsenal)
+```
+███████╗███████╗ ██████╗██╗   ██╗██╗   ██╗██╗     ███╗   ██╗██╗  ██╗██╗   ██╗██████╗ 
+██╔════╝██╔════╝██╔════╝██║   ██║██║   ██║██║     ████╗  ██║██║  ██║██║   ██║██╔══██╗
+███████╗█████╗  ██║     ██║   ██║██║   ██║██║     ██╔██╗ ██║███████║██║   ██║██████╔╝
+╚════██║██╔══╝  ██║     ╚██╗ ██╔╝██║   ██║██║     ██║╚██╗██║██╔══██║██║   ██║██╔══██╗
+███████║███████╗╚██████╗ ╚████╔╝ ╚██████╔╝███████╗██║ ╚████║██║  ██║╚██████╔╝██████╔╝
+╚══════╝╚══════╝ ╚═════╝  ╚═══╝   ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
+```
 
-**Where Ethical Hackers Forge Digital Security**
+### ⚡ **WHERE ETHICAL HACKERS FORGE DIGITAL WEAPONS** ⚡
 
-[![MIT License](https://img.shields.io/badge/License-MIT-00d9ff.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Tools](https://img.shields.io/badge/Tools-Growing_Daily-ff6b6b.svg?style=for-the-badge)](tools/)
-[![Contributors](https://img.shields.io/badge/Contributors-Welcome-4ecdc4.svg?style=for-the-badge)](CONTRIBUTING.md)
-[![Build](https://img.shields.io/badge/Build-Passing-45b7d1.svg?style=for-the-badge)](scripts/)
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ARSENAL_BUILDING-00ff41?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/LICENSE-MIT-00d9ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/TOOLS-100+_INCOMING-ff6b6b?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/BUILT_BY-HUNTERS-4ecdc4?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0a0a0a" />
+</p>
 
----
-
-*"In the realm of cybersecurity, we don't just find vulnerabilities—we craft the tools that reveal them."*
-
-</div>
-
-## 🎯 **Our Mission**
-
-SecVulnHub stands as the definitive arsenal for ethical hackers and cybersecurity professionals. We're not just another tool repository—we're a specialized forge where battle-tested utilities are crafted, refined, and deployed in real-world security operations.
-
-<details>
-<summary><strong>🔥 Why SecVulnHub Dominates</strong></summary>
-
-**Quality Over Quantity Philosophy**
-Every tool undergoes rigorous testing and documentation standards. We believe in building utilities that practitioners can trust in high-stakes security assessments.
-
-**Built by Practitioners, for Practitioners**
-Our core team consists of active bug bounty hunters and ethical hackers who understand the nuanced needs of modern cybersecurity workflows.
-
-**Community-Driven Innovation**
-While our core team drives development, we welcome contributions from the global cybersecurity community, ensuring diverse perspectives and cutting-edge techniques.
-
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 👥 **The Team Behind the Arsenal**
-
-<div align="center">
-
-### 🏴‍☠️ **Core Development Team**
-
-*A collective of cybersecurity professionals with a shared obsession for building tools that matter*
-
-</div>
-
-Our expertise spans across multiple domains of cybersecurity, each team member bringing unique perspectives from their experience in:
-
-**Offensive Security Operations**
-Advanced penetration testing methodologies, red team operations, and sophisticated attack simulation frameworks that mirror real-world threat scenarios.
-
-**Bug Bounty Excellence**
-Active hunters across major platforms including HackerOne, Bugcrowd, and private programs, with a proven track record of discovering critical vulnerabilities in high-profile applications.
-
-**Vulnerability Research**
-Deep-dive security research focusing on novel attack vectors, zero-day discovery, and responsible disclosure practices that contribute to the broader security community.
-
-**Tool Development & Automation**
-Full-stack development capabilities focused on creating efficient, reliable security utilities that integrate seamlessly into existing cybersecurity workflows.
-
----
-
-## 🚀 **The 100-Day Challenge**
-
-<div align="center">
-
-### ⚡ **Current Mission: 100 Days of Cybersecurity Innovation**
-
-**Start Date:** June 10, 2025 - 12:45 EAT  
-**Rhythm:** 1 New Utility Every 5 Days  
-**Goal:** Build the Most Comprehensive Ethical Hacking Toolkit
-
-</div>
-
-<details>
-<summary><strong>📋 Development Roadmap</strong></summary>
-
-**Phase 1: Intelligence Gathering** (Days 1-20)
-Advanced reconnaissance tools that go beyond basic enumeration, focusing on comprehensive target profiling and attack surface mapping.
-
-**Phase 2: Vulnerability Detection** (Days 21-40)
-Sophisticated scanners and assessment tools designed for both broad-spectrum and targeted vulnerability identification across multiple platforms.
-
-**Phase 3: Exploitation Frameworks** (Days 41-60)
-Proof-of-concept utilities and exploitation aids designed exclusively for authorized penetration testing and security research.
-
-**Phase 4: Workflow Automation** (Days 61-80)
-Integration tools and automation frameworks that streamline complex security operations and enhance productivity for ethical hackers.
-
-**Phase 5: Advanced Analysis** (Days 81-100)
-Cutting-edge forensics tools and incident response utilities that support both offensive and defensive security operations.
-
-</details>
-
----
-
-## 🗂️ **Arsenal Categories**
-
-### 🔍 **Reconnaissance & Intelligence**
-<details>
-<summary>Expand to see tools</summary>
-
-- **Port Scanner Plus** - Advanced port enumeration with service fingerprinting
-- **Subdomain Hunter** - Comprehensive subdomain discovery and validation
-- **DNS Enumeration Suite** - Deep DNS analysis and zone transfer detection
-- **OSINT Gatherer** - Automated open-source intelligence collection
-- **Network Mapper** - Advanced network topology discovery
-
-</details>
-
-### 🛡️ **Vulnerability Assessment**
-<details>
-<summary>Expand to see tools</summary>
-
-- **Web Fuzzer Pro** - Intelligent fuzzing with payload optimization
-- **Config Auditor** - Systematic configuration security analysis
-- **SSL/TLS Scanner** - Comprehensive certificate and protocol testing
-- **CMS Vulnerability Scanner** - Specialized content management system testing
-- **API Security Tester** - REST/GraphQL API security validation
-
-</details>
-
-### 🌐 **Web Application Testing**
-<details>
-<summary>Expand to see tools</summary>
-
-- **XSS Payload Generator** - Context-aware cross-site scripting testing
-- **SQL Injection Tester** - Advanced database injection techniques
-- **CSRF Token Analyzer** - Cross-site request forgery validation
-- **Parameter Pollution Detector** - HTTP parameter manipulation testing
-
-</details>
-
-### ⚔️ **Exploitation Utilities**
-<details>
-<summary>Expand to see tools</summary>
-
-- **Payload Generators** - Custom payload creation for various attack vectors
-- **Reverse Shell Toolkit** - Multi-platform reverse connection utilities
-- **Privilege Escalation Checker** - Automated privilege escalation enumeration
-
-</details>
-
-### 📱 **Mobile Security**
-<details>
-<summary>Expand to see tools</summary>
-
-- **APK Analyzer** - Comprehensive Android application security testing
-- **iOS Security Tester** - iPhone application vulnerability assessment
-- **Mobile API Interceptor** - Mobile application traffic analysis
-
-</details>
-
-### 🔬 **Forensics & Analysis**
-<details>
-<summary>Expand to see tools</summary>
-
-- **Log Analyzer** - Intelligent log parsing and anomaly detection
-- **Memory Dump Parser** - Advanced memory analysis and artifact extraction
-- **Network Traffic Analyzer** - Deep packet inspection and protocol analysis
-
-</details>
-
-### 🤖 **Automation & Orchestration**
-<details>
-<summary>Expand to see tools</summary>
-
-- **Vulnerability Scanner Orchestrator** - Multi-tool integration framework
-- **Report Generator** - Automated security assessment reporting
-- **Notification System** - Real-time security event alerting
-
-</details>
-
-### 🔧 **Miscellaneous Utilities**
-<details>
-<summary>Expand to see tools</summary>
-
-- **Hash Cracker** - Multi-algorithm hash breaking utilities
-- **Encoding Decoder** - Universal encoding/decoding toolkit
-- **Payload Encoder** - Advanced payload obfuscation techniques
-
-</details>
-
----
-
-## 🤝 **Contributing to the Arsenal**
-
-We welcome skilled contributors who share our commitment to advancing ethical cybersecurity practices. Your contributions help build tools that protect the digital world.
-
-### **Submission Standards**
-
-**Tool Quality Requirements**
-Your contribution must solve a real cybersecurity challenge faced by practitioners in the field. We prioritize tools that enhance efficiency, improve accuracy, or provide novel capabilities in ethical hacking workflows.
-
-**Documentation Excellence**
-If our team cannot understand and deploy your tool within five minutes of reading your documentation, it will not be accepted. Clear, comprehensive documentation is non-negotiable.
-
-**Code Security Standards**
-All submissions undergo rigorous security review. Your code must demonstrate solid security practices, including proper input validation, secure data handling, and robust error management.
-
-**Testing Reliability**
-Your tool must work consistently across different environments and handle edge cases gracefully. Include comprehensive test scripts and validation procedures.
-
-### **Submission Process**
-
-<details>
-<summary><strong>Step-by-Step Contribution Guide</strong></summary>
-
-**Preparation Phase**
-Research existing tools in our repository to ensure your contribution adds unique value. Fork our repository and create a feature branch with a descriptive name.
-
-**Development Phase**
-Follow our coding standards and security guidelines. Pay special attention to creating documentation that explains both technical implementation and practical applications.
-
-**Package Structure**
-Organize your submission according to our required directory structure, including comprehensive README.md, automated install.sh, and thorough test.sh files.
-
-**Testing Phase**
-Validate your complete package on multiple clean systems representing different environments used by cybersecurity professionals.
-
-**Submission Phase**
-Create a detailed pull request with clear descriptions of functionality, value proposition, and integration into ethical hacking workflows.
-
-**Review Process**
-Our team conducts comprehensive functionality testing, security analysis, and code quality assessment. Be prepared to iterate based on feedback.
-
-</details>
-
----
-
-## 🔒 **Ethical Use & Legal Compliance**
-
-<div align="center">
-
-### ⚖️ **Responsibility Statement**
-
-*"With great tools comes great responsibility. Every utility in SecVulnHub is designed for authorized, ethical cybersecurity operations."*
-
-</div>
-
-**Authorized Use Only**
-All tools are intended exclusively for legitimate cybersecurity purposes including authorized penetration testing, security research, and defensive operations. Users must obtain proper authorization before testing any systems.
-
-**Responsible Disclosure**
-Contributors and users must follow responsible disclosure practices when discovering vulnerabilities. Include clear guidance for proper vulnerability reporting procedures.
-
-**Legal Compliance**
-Users assume full responsibility for compliance with applicable laws and regulations in their jurisdiction, including computer fraud and abuse laws and privacy regulations.
-
----
-
-## 📊 **Repository Metrics**
-
-<div align="center">
-
-| Metric | Current Status |
-|--------|---------------|
-| 🛠️ **Active Tools** | Growing Daily |
-| 📂 **Categories** | 8 Major Domains |
-| 👥 **Contributors** | Core Team + Community |
-| 🎯 **Focus** | Ethical Hacking Excellence |
+```diff
+@@                                                                                 @@
+@@  "In the realm of cybersecurity, we don't just find vulnerabilities—          @@
+@@              we craft the tools that reveal them."                             @@
+@@                                                                                 @@
+```
 
 </div>
 
 ---
 
-## 🏆 **Recognition Program**
+## 🎯 **MISSION STATEMENT**
 
-We believe in celebrating our community contributors who help advance cybersecurity through ethical tool development.
+<table>
+<tr>
+<td width="50%">
 
-**Contributor Benefits**
-Permanent attribution in documentation, contributor badges, community recognition in updates, and collaboration opportunities on major projects and initiatives.
+### 🔥 **THE VISION**
 
-**Excellence Recognition**
-Outstanding contributions receive special highlighting in community updates and invitation to participate in advanced development initiatives.
+SecVulnHub isn't just another GitHub repo—it's a **living arsenal** where battle-tested security tools are forged, refined, and deployed by practitioners who live and breathe offensive security.
+
+**We believe in:**
+- 🎯 Quality over quantity
+- ⚔️ Tools built in the trenches
+- 🌐 Open-source excellence
+- 🛡️ Ethical hacking standards
+
+</td>
+<td width="50%">
+
+### ⚡ **THE DIFFERENCE**
+
+```python
+class SecVulnHub:
+    def __init__(self):
+        self.quality = "battle-tested"
+        self.docs = "crystal-clear"
+        self.team = "active-hunters"
+        self.mission = "forge-the-future"
+    
+    def philosophy(self):
+        return "Build tools practitioners trust"
+```
+
+**Every tool undergoes:**
+- ✅ Real-world testing
+- ✅ Security audit
+- ✅ Documentation review
+- ✅ Community validation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📞 **Connect With Us**
+## 🏴‍☠️ **WHO BUILDS THIS ARSENAL**
 
 <div align="center">
 
-### 💬 **Community Channels**
+### 💀 **THE COLLECTIVE** 💀
 
-**Questions & Support** | Create issues with appropriate labels  
-**Tool Requests** | Submit detailed requirements via issue tracker  
-**Security Reports** | Email our security team directly  
-**General Discussion** | Join repository discussions  
+*A team of cybersecurity obsessives who build tools that matter*
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/ROLE-Offensive_Ops-ff0000?style=for-the-badge&logo=target" /><br/>
+<sub><b>Advanced Pentesting</b></sub><br/>
+<sub>Red Team Operations</sub><br/>
+<sub>Attack Simulation</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/ROLE-Bug_Bounty-00ff00?style=for-the-badge&logo=bugcrowd" /><br/>
+<sub><b>Active Hunters</b></sub><br/>
+<sub>HackerOne | Bugcrowd</sub><br/>
+<sub>Critical CVEs</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/ROLE-Vuln_Research-0080ff?style=for-the-badge&logo=hackthebox" /><br/>
+<sub><b>0day Discovery</b></sub><br/>
+<sub>Novel Attack Vectors</sub><br/>
+<sub>Responsible Disclosure</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/ROLE-Tool_Dev-ff00ff?style=for-the-badge&logo=github" /><br/>
+<sub><b>Full Stack</b></sub><br/>
+<sub>Automation Masters</sub><br/>
+<sub>Workflow Integration</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌟 **Our Promise**
+## 🚀 **THE 100-DAY GAUNTLET**
 
-*"We're not just building tools—we're forging the future of ethical cybersecurity."*
+<div align="center">
 
-**Built by practitioners, tested in the field, trusted by professionals.**
+### ⚔️ **100 DAYS • 20 TOOLS • INFINITE IMPACT** ⚔️
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  START: June 10, 2025 - 12:45 EAT                                  │
+│  CADENCE: 1 Tool Every 5 Days                                       │
+│  GOAL: Build The Ultimate Ethical Hacking Toolkit                   │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<table>
+<tr>
+<td width="20%" align="center">
+<img src="https://img.shields.io/badge/PHASE_1-Days_1--20-00d9ff?style=for-the-badge" /><br/>
+<b>🔍 RECON</b><br/>
+<sub>Intelligence Gathering</sub><br/>
+<sub>Target Profiling</sub><br/>
+<sub>Attack Surface Mapping</sub>
+</td>
+<td width="20%" align="center">
+<img src="https://img.shields.io/badge/PHASE_2-Days_21--40-4ecdc4?style=for-the-badge" /><br/>
+<b>🛡️ DETECTION</b><br/>
+<sub>Vulnerability Scanners</sub><br/>
+<sub>Assessment Tools</sub><br/>
+<sub>Multi-Platform Support</sub>
+</td>
+<td width="20%" align="center">
+<img src="https://img.shields.io/badge/PHASE_3-Days_41--60-ff6b6b?style=for-the-badge" /><br/>
+<b>⚔️ EXPLOITATION</b><br/>
+<sub>PoC Frameworks</sub><br/>
+<sub>Exploitation Aids</sub><br/>
+<sub>Authorized Testing</sub>
+</td>
+<td width="20%" align="center">
+<img src="https://img.shields.io/badge/PHASE_4-Days_61--80-45b7d1?style=for-the-badge" /><br/>
+<b>🤖 AUTOMATION</b><br/>
+<sub>Workflow Integration</sub><br/>
+<sub>Operation Streamlining</sub><br/>
+<sub>Productivity Boost</sub>
+</td>
+<td width="20%" align="center">
+<img src="https://img.shields.io/badge/PHASE_5-Days_81--100-00ff41?style=for-the-badge" /><br/>
+<b>🔬 ANALYSIS</b><br/>
+<sub>Forensics Tools</sub><br/>
+<sub>Incident Response</sub><br/>
+<sub>Advanced Analytics</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 🗡️ **THE ARSENAL**
+
+<div align="center">
+
+### 🔥 **CHOOSE YOUR WEAPON** 🔥
+
+</div>
+
+<details open>
+<summary><img src="https://img.shields.io/badge/🔍-RECON_&_INTELLIGENCE-00d9ff?style=for-the-badge" /></summary>
+
+<br/>
+
+| Tool | Description | Status |
+|------|-------------|--------|
+| **🎯 Port Scanner Plus** | Advanced port enumeration + service fingerprinting | ![](https://img.shields.io/badge/READY-00ff41?style=flat-square) |
+| **🌐 Subdomain Hunter** | Comprehensive subdomain discovery & validation | ![](https://img.shields.io/badge/READY-00ff41?style=flat-square) |
+| **📡 DNS Enum Suite** | Deep DNS analysis + zone transfer detection | ![](https://img.shields.io/badge/DEV-ffaa00?style=flat-square) |
+| **🕵️ OSINT Gatherer** | Automated open-source intelligence collection | ![](https://img.shields.io/badge/READY-00ff41?style=flat-square) |
+| **🗺️ Network Mapper** | Advanced network topology discovery | ![](https://img.shields.io/badge/DEV-ffaa00?style=flat-square) |
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/🛡️-VULNERABILITY_ASSESSMENT-4ecdc4?style=for-the-badge" /></summary>
+
+<br/>
+
+| Tool | Description | Status |
+|------|-------------|--------|
+| **💥 Web Fuzzer Pro** | Intelligent fuzzing + payload optimization | ![](https://img.shields.io/badge/READY-00ff41?style=flat-square) |
+| **⚙️ Config Auditor** | Systematic configuration security analysis | ![](https://img.shields.io/badge/READY-00ff41?style=flat-square) |
+| **🔐 SSL/TLS Scanner** | Comprehensive certificate & protocol testing | ![](https://img.shields.io/badge/READY-00ff41?style=flat-square) |
+| **📝 CMS Vuln Scanner** | Specialized content management system testing | ![](https://img.shields.io/badge/DEV-ffaa00?style=flat-square) |
+| **🔌 API Security Tester** | REST/GraphQL API security validation | ![](https://img.shields.io/badge/PLANNED-ff6b6b?style=flat-square) |
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/🌐-WEB_APPLICATION_TESTING-ff6b6b?style=for-the-badge" /></summary>
+
+<br/>
+
+| Tool | Description | Status |
+|------|-------------|--------|
+| **💉 XSS Payload Gen** | Context-aware cross-site scripting testing | ![](https://img.shields.io/badge/READY-00ff41?style=flat-square) |
+| **🗄️ SQL Injection Tester** | Advanced database injection techniques | ![](https://img.shields.io/badge/READY-00ff41?style=flat-square) |
+| **🎫 CSRF Token Analyzer** | Cross-site request forgery validation | ![](https://img.shields.io/badge/DEV-ffaa00?style=flat-square) |
+| **🔀 Param Pollution** | HTTP parameter manipulation testing | ![](https://img.shields.io/badge/PLANNED-ff6b6b?style=flat-square) |
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/⚔️-EXPLOITATION_UTILITIES-45b7d1?style=for-the-badge" /></summary>
+
+<br/>
+
+| Tool | Description | Status |
+|------|-------------|--------|
+| **🧬 Payload Generators** | Custom payload creation for various vectors | ![](https://img.shields.io/badge/READY-00ff41?style=flat-square) |
+| **🔄 Reverse Shell Kit** | Multi-platform reverse connection utilities | ![](https://img.shields.io/badge/READY-00ff41?style=flat-square) |
+| **⬆️ PrivEsc Checker** | Automated privilege escalation enumeration | ![](https://img.shields.io/badge/DEV-ffaa00?style=flat-square) |
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/📱-MOBILE_SECURITY-9b59b6?style=for-the-badge" /></summary>
+
+<br/>
+
+| Tool | Description | Status |
+|------|-------------|--------|
+| **🤖 APK Analyzer** | Comprehensive Android app security testing | ![](https://img.shields.io/badge/PLANNED-ff6b6b?style=flat-square) |
+| **🍎 iOS Security Tester** | iPhone application vulnerability assessment | ![](https://img.shields.io/badge/PLANNED-ff6b6b?style=flat-square) |
+| **📡 Mobile API Interceptor** | Mobile application traffic analysis | ![](https://img.shields.io/badge/PLANNED-ff6b6b?style=flat-square) |
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/🔬-FORENSICS_&_ANALYSIS-00ff41?style=for-the-badge" /></summary>
+
+<br/>
+
+| Tool | Description | Status |
+|------|-------------|--------|
+| **📊 Log Analyzer** | Intelligent log parsing + anomaly detection | ![](https://img.shields.io/badge/DEV-ffaa00?style=flat-square) |
+| **🧠 Memory Dump Parser** | Advanced memory analysis + artifact extraction | ![](https://img.shields.io/badge/PLANNED-ff6b6b?style=flat-square) |
+| **🔍 Traffic Analyzer** | Deep packet inspection + protocol analysis | ![](https://img.shields.io/badge/DEV-ffaa00?style=flat-square) |
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/🤖-AUTOMATION_&_ORCHESTRATION-ffaa00?style=for-the-badge" /></summary>
+
+<br/>
+
+| Tool | Description | Status |
+|------|-------------|--------|
+| **🎯 Scanner Orchestrator** | Multi-tool integration framework | ![](https://img.shields.io/badge/DEV-ffaa00?style=flat-square) |
+| **📄 Report Generator** | Automated security assessment reporting | ![](https://img.shields.io/badge/READY-00ff41?style=flat-square) |
+| **🔔 Notification System** | Real-time security event alerting | ![](https://img.shields.io/badge/READY-00ff41?style=flat-square) |
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/🔧-MISC_UTILITIES-6c5ce7?style=for-the-badge" /></summary>
+
+<br/>
+
+| Tool | Description | Status |
+|------|-------------|--------|
+| **🔓 Hash Cracker** | Multi-algorithm hash breaking utilities | ![](https://img.shields.io/badge/READY-00ff41?style=flat-square) |
+| **🔄 Encoding Decoder** | Universal encoding/decoding toolkit | ![](https://img.shields.io/badge/READY-00ff41?style=flat-square) |
+| **🎭 Payload Encoder** | Advanced payload obfuscation techniques | ![](https://img.shields.io/badge/DEV-ffaa00?style=flat-square) |
+
+</details>
+
+---
+
+## 🤝 **JOIN THE FORGE**
+
+<div align="center">
+
+### 🔨 **BECOME A WEAPONSMITH** 🔨
+
+</div>
+
+We're looking for **elite contributors** who share our obsession with building tools that matter.
+
+<table>
+<tr>
+<td width="50%">
+
+### ✅ **WHAT WE ACCEPT**
+
+```yaml
+contribution:
+  quality:
+    - solves_real_problem: true
+    - battle_tested: true
+    - production_ready: true
+  
+  documentation:
+    - deploy_in: "< 5 minutes"
+    - clarity: "crystal clear"
+    - examples: "comprehensive"
+  
+  code:
+    - security: "audited"
+    - tests: "passing"
+    - standards: "enforced"
+```
+
+</td>
+<td width="50%">
+
+### 📋 **SUBMISSION CHECKLIST**
+
+- [ ] **Solves real cybersecurity challenge**
+- [ ] **5-minute deployment from docs**
+- [ ] **Passes security audit**
+- [ ] **Includes comprehensive tests**
+- [ ] **Follows directory structure**
+- [ ] **Has install.sh + test.sh**
+- [ ] **Works across environments**
+- [ ] **Adds unique value to arsenal**
+
+</td>
+</tr>
+</table>
+
+### 🔥 **CONTRIBUTION PROCESS**
+
+```mermaid
+graph LR
+    A[🔍 Research] --> B[🍴 Fork]
+    B --> C[💻 Develop]
+    C --> D[📝 Document]
+    D --> E[🧪 Test]
+    E --> F[📤 PR]
+    F --> G[👀 Review]
+    G --> H[✅ Merge]
+    H --> I[🏆 Recognition]
+```
+
+---
+
+## ⚖️ **ETHICAL USE ONLY**
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║  ⚠️  WITH GREAT TOOLS COMES GREAT RESPONSIBILITY  ⚠️              ║
+║                                                                   ║
+║  Every utility in SecVulnHub is designed for AUTHORIZED,         ║
+║  ETHICAL cybersecurity operations ONLY.                          ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ✅ **AUTHORIZED USE**
+
+Legitimate pentesting<br/>
+Security research<br/>
+Defensive operations<br/>
+Educational purposes<br/>
+<sub>**Always get permission**</sub>
+
+</td>
+<td width="33%" align="center">
+
+### 🔐 **RESPONSIBLE DISCLOSURE**
+
+Follow disclosure practices<br/>
+Report vulnerabilities<br/>
+Protect affected parties<br/>
+Coordinate with vendors<br/>
+<sub>**Be a responsible researcher**</sub>
+
+</td>
+<td width="33%" align="center">
+
+### ⚖️ **LEGAL COMPLIANCE**
+
+Know your local laws<br/>
+Understand regulations<br/>
+Respect privacy laws<br/>
+Follow ethical guidelines<br/>
+<sub>**You are responsible**</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 **LIVE STATS**
+
+<div align="center">
+
+### 🔥 **ARSENAL METRICS** 🔥
+
+<img src="https://img.shields.io/badge/ACTIVE_TOOLS-GROWING_DAILY-00ff41?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/CATEGORIES-8_DOMAINS-00d9ff?style=for-the-badge&logo=buffer&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/CONTRIBUTORS-CORE_+_COMMUNITY-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/FOCUS-ETHICAL_EXCELLENCE-4ecdc4?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=0a0a0a" />
+
+</div>
+
+---
+
+## 🏆 **HALL OF FAME**
+
+<div align="center">
+
+### ⚡ **CONTRIBUTOR RECOGNITION** ⚡
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🥇 LEGENDARY**
+
+Contributors with 10+ tools
+
+<sub>Permanent attribution</sub><br/>
+<sub>Legendary badge</sub><br/>
+<sub>Leadership opportunities</sub>
+
+</td>
+<td align="center" width="25%">
+
+**🥈 ELITE**
+
+Contributors with 5-9 tools
+
+<sub>Profile highlighting</sub><br/>
+<sub>Elite badge</sub><br/>
+<sub>Priority PR review</sub>
+
+</td>
+<td align="center" width="25%">
+
+**🥉 VETERAN**
+
+Contributors with 2-4 tools
+
+<sub>Repository attribution</sub><br/>
+<sub>Veteran badge</sub><br/>
+<sub>Community recognition</sub>
+
+</td>
+<td align="center" width="25%">
+
+**⭐ CONTRIBUTOR**
+
+Contributors with 1 tool
+
+<sub>Tool credit</sub><br/>
+<sub>Contributor badge</sub><br/>
+<sub>Community access</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📞 **COMMUNICATIONS**
+
+<div align="center">
+
+| Channel | Purpose | Link |
+|---------|---------|------|
+| 🐛 **Issues** | Bug reports & feature requests | [Open Issue](../../issues) |
+| 💬 **Discussions** | General questions & ideas | [Join Discussion](../../discussions) |
+| 🔒 **Security** | Vulnerability reports | security@secvulnhub.local |
+| 📖 **Docs** | Documentation & guides | [Read Docs](docs/) |
 
 </div>
 
@@ -304,8 +520,43 @@ Outstanding contributions receive special highlighting in community updates and 
 
 <div align="center">
 
-**SecVulnHub** • *Where Digital Security is Crafted* • 🛡️
+## 🌟 **OUR PROMISE** 🌟
 
-![Footer](https://via.placeholder.com/800x100/1e293b/64748b?text=Securing%20the%20Digital%20World%20Through%20Ethical%20Innovation)
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  "We're not just building tools—                               │
+│   we're forging the future of ethical cybersecurity."          │
+│                                                                 │
+│  Built by practitioners.                                       │
+│  Tested in the field.                                          │
+│  Trusted by professionals.                                     │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🛡️ **SecVulnHub** • *Where Digital Security is Crafted* • 🛡️
+
+<img src="https://img.shields.io/badge/SECURING_THE_DIGITAL_WORLD-THROUGH_ETHICAL_INNOVATION-00ff41?style=for-the-badge&logo=shieldsdotio&logoColor=white&labelColor=0a0a0a" />
+
+---
+
+**⭐ Star this repo if you believe in ethical hacking done right**
+
+**🔱 Fork it if you're ready to contribute to the arsenal**
+
+**👁️ Watch for updates as we build the future of cybersecurity tools**
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with 💀 by hackers, for hackers**
+
+*Last Updated: October 2025*
 
 </div>
